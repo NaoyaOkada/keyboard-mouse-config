@@ -2,3 +2,4 @@
 #Include windowMouse.ahk
 #Include windowSnap.ahk
 #Include customEscape.ahk
+#Include volumeControl.ahk
